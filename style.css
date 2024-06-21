@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #phone-input {
+    width: 200px;
+    height: 30px;
+    padding: 10px;
+    font-size: 18px;
+  }
+  
+  #format-btn {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #format-btn:hover {
+    background-color: #3e8e41;
+  }
+  
+  #formatted-phone {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+  }
